@@ -1,0 +1,10 @@
+/* src/styles.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  /* background: url("https://wrench.com/blog/content/images/size/w2000/2021/09/cars-in-lot.jpg") no-repeat center center fixed; */
+  background: url("https://images.unsplash.com/photo-1506521781263-d8422e82f27a?q=80&w=2070.jpg") no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
